@@ -1,0 +1,9 @@
+---
+# defaults file for ansible-role-protonvpn
+#
+#
+
+fedora_url_repo: https://repository.mullvad.net/rpm/stable/mullvad.repo
+fedora_url_repo_beta: https://repository.mullvad.net/rpm/beta/mullvad.repo
+debian_url_repo: https://repo.protonvpn.com/debian/dists/unstable/main/binary-all/protonvpn-beta-release_1.0.3-2_all.deb
+ubuntu_url_repo: https://repo.protonvpn.com/debian/dists/unstable/main/binary-all/protonvpn-beta-release_1.0.3-2_all.deb
